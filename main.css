@@ -1,0 +1,39 @@
+header{ 
+  margin-bottom: 40px;
+  background-color: #EDB651 }
+
+main .row {
+  margin-bottom: 20px;
+}
+
+header h1{
+ margin-bottom: 10px;
+}
+
+
+header p{
+  margin-top: 10; 
+  margin-bottom: 20px
+}
+
+.character {
+  border: 1px solid black;
+  margin bottom: 25px;
+}
+
+.character-image {
+  width: 100%;
+  height: auto;
+}
+
+.character-info {
+  padding: 15px;
+}
+
+.character-info h2{
+  margin;0;
+} 
+
+.character-info  p{
+  margin: 1 0;
+}
